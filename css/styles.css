@@ -38,3 +38,16 @@ body{
   font-family: 'Chango', cursive;
   text-shadow: -3px 0 0 #ffa23d, 0 2px 0 #ffa23d, 0 0 0 #ffa23d, 0 0 0 #ffa23d;
 }
+
+.innerContent {
+  padding: 50px 100px;
+}
+
+.centerIt{
+  text-align: center;
+}
+
+.bball {
+  width: 50%;
+  margin-bottom: 20px;
+}
